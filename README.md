@@ -2,6 +2,7 @@
 
 # How to Solve Cloudflare with Puppeteer
 
+![bd5e19839e4f1cdce486977ccbd5b988](https://github.com/user-attachments/assets/f318e93a-b110-4d9a-b362-65cfb9803449)
 
 
 ## Step-by-Step Guide to Using Puppeteer to Solve Cloudflare
